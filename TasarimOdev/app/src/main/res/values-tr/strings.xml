@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kahve Falı</string>
+    <string name="baslik">Kahve Falı</string>
+    <string name="icerik">Kahve Falına Bakmaya Ne Dersin?</string>
+    <string name="falBak">Fal Bak</string>
+    <string name="burcYorumu">Burç Yorumu</string>
+    <string name="cevirKazan">Çevir Kazan</string>
+    <string name="cozKazan">Çöz Kazan</string>
+</resources>

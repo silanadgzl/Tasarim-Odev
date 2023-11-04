@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="anaRenk">#F28585</color>
+    <color name="purple">#B39DDB</color>
+    <color name="white1">#EEEEEE</color>
+    <color name="grey">#616161</color>
+    <color name="blue">#90CAF9</color>
+    <color name="orange">#F2B263</color>
+    <color name="pink1">#F8BBD0</color>
+    <color name="purple1">#9C27B0</color>
+    <color name="renk1">#4DD0E1</color>
+
+
+
+</resources>

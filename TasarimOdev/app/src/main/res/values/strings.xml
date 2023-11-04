@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kahve Falı</string>
+    <string name="baslik">Coffee Fortune Telling</string>
+    <string name="icerik">Would You Like To Tell Your Coffee Fortune?</string>
+    <string name="falBak">Fortune Felling</string>
+    <string name="burcYorumu">Horoscope</string>
+    <string name="cevirKazan">Spin Win</string>
+    <string name="cozKazan">Solve and Win</string>
+</resources>
